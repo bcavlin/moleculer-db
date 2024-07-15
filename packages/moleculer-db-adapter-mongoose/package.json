@@ -1,6 +1,6 @@
 {
   "name": "moleculer-db-adapter-mongoose",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "description": "Mongoose adapter for Moleculer DB service",
   "main": "index.js",
   "types": "index.d.ts",
@@ -26,7 +26,7 @@
   "license": "MIT",
   "peerDependencies": {
     "moleculer": "^0.12.0 || ^0.13.0 || ^0.14.0",
-    "mongoose": "^6.5.4"
+    "mongoose": "^8.4.4"
   },
   "devDependencies": {
     "benchmarkify": "^3.0.0",
